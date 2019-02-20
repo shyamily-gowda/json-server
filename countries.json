@@ -1,0 +1,26 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India",
+      "population": "40000"
+    },
+    {
+      "id": 2,
+      "name": "Nepal",
+      "population": "5000"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "sam",
+      "city": "bangalore"
+    },
+    {
+      "id": 2,
+      "name": "sana",
+      "city": "delhi"
+    }
+  ]
+}
